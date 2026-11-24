@@ -2,10 +2,12 @@
 
 **Post on:** Tuesday 15 December 2026, 9:00am Lagos time, from the Worsship LinkedIn page
 
-**Attach:** `worsship-phone-filming-tips.pdf` as a document (LinkedIn shows it as a swipeable carousel).
-Document title when LinkedIn asks: *No studio? No problem.*
+**Attach:** `worsship-build-on-solid-ground.pdf` as a document (LinkedIn shows it as a swipeable carousel).
+Document title when LinkedIn asks: *Build on solid ground*
 
-If you prefer a single image, use `cover-image.jpg` instead.
+If you prefer a single image, use `cover-image-solid-ground.jpg` instead.
+
+(This replaced the phone filming tips post, which is kept as `post-phone-filming-tips-unused.md` for January.)
 
 ---
 
@@ -13,20 +15,21 @@ If you prefer a single image, use `cover-image.jpg` instead.
 
 ---
 
-One of the biggest reasons people give for not creating is equipment.
+Look closely at almost any creator community and you will see it: a main page and a backup page, opened the same week.
 
-The truth is that a phone is enough to start. Four habits make the biggest difference:
-1. Face the light: stand facing a window, not with it behind you
-2. Keep it steady: prop your phone up or use a simple stand
-3. Get close for sound: film somewhere quiet, close to the mic
-4. One message per video: short and clear beats long and busy
+Creators have learned not to trust the ground they build on. One misread video or one mass report, followed by an appeal that ends in a template reply, can take years of work with it.
 
-At Worsship we build for creators who film on their phones, on mobile data, between work and family. Every part of the product is shaped around making that first video easier to share.
+For faith creators, context is everything. A sermon about the blood of Jesus, a deliverance prayer or a testimony of what God brought someone through can easily be misread by a system that does not understand faith.
 
-What stopped you from posting your first video, and what finally got you started?
+That is why Worsship was built the way it is:
+- Held posts are reviewed by people who understand faith content.
+- No dead ends: creators can always see the status of a held or removed post, with time to appeal.
+- Faith details are only stored with consent.
+
+Church media teams and creators: your ministry should not live on rented land.
 
 Worsship is live on Google Play and at app.worsship.com.
 
-#CreatorTips #ContentCreation #ChristianCreators #StartupsInAfrica
+#ChurchMedia #CreatorEconomy #FaithTech #TrustAndSafety
 
 ---
