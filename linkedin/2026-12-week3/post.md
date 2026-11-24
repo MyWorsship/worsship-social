@@ -5,7 +5,7 @@
 **Attach:** `worsship-your-expertise-is-ministry.pdf` as a document (LinkedIn shows it as a swipeable carousel).
 Document title when LinkedIn asks: *Your expertise is ministry*
 
-(Moved here on 24 Nov from 24 Nov's slot. The phone filming tips post is kept as `post-phone-filming-tips-unused.md` for January.)
+(Moved here from the 24 Nov slot so "Build on solid ground" could go out first. The phone filming tips post is kept as `post-phone-filming-tips-unused.md` for January.)
 
 If you prefer a single image, use `cover-image-expertise.jpg` instead.
 
